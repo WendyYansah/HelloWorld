@@ -1,10 +1,4 @@
 cota fhwfah
-<<<<<<< HEAD
-halo
-fjiajkfafh
-kacangan
-=======
 hola
 sehatan
 kacangan lah dia cot
->>>>>>> 49a3fe95f0cafe51a85cb19ef048484031721776
