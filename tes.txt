@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-coti
-=======
 cota halo
 halo
-sehat
+sehatan
 kacangan
->>>>>>> f6b0fb52d3f2de2a52581b80e68fafc57efab20c
